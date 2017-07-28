@@ -1,4 +1,4 @@
-# Testbook-Agenda-Academica
+# Testbook-Appointment-Book
 
 Original Developers: Anderson Kleber, Carlos Mariz e Douglas Cândido.
 
