@@ -1,7 +1,5 @@
 # Testbook-Appointment-Book
 
-Original Developers: Anderson Kleber, Carlos Mariz e Douglas Cândido.
-
 Description: Testbook is a desktop application written in Java that has the general objective to serve as a practical and functional appointment book for the students organize their school commitments. The first version was developed in 2014.
 
 What is missing?
